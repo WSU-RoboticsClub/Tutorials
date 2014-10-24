@@ -1,0 +1,11 @@
+OpenCV Tutorials
+
+Color Detection is a pythonic version of Kyle Hounslow's C++ program
+Watch Kyle's tutorial video: https://www.youtube.com/watch?v=bSeFrPrqZ2A
+Kyle's C++ code: https://dl.dropboxusercontent.com/u/28096936/tuts/objectTrackingTut.cpp
+
+
+Motion Detection is a pythonic version of Kyle Hounslow's C++ program
+Watch Kyle's tutorial video: https://www.youtube.com/watch?v=X6rPdRZzgjg
+Kyle's C++ code: https://dl.dropboxusercontent.com/u/28096936/tuts/motionTrackingTut/finalCode/motionTracking.cpp
+
