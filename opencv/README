@@ -1,11 +1,19 @@
 OpenCV Tutorials
 
-Color Detection is a pythonic version of Kyle Hounslow's C++ program
+
+img_tutorial.py
+Code includes how to open an image in grayscale, resize image, save image
+
+video_tutorial.py
+Code includes how to open webcam, capture frame from video feed, convert color to grayscale, flip video frame horizontally, show video on screen window
+
+detect_track_color.py
+This is a pythonic version of Kyle Hounslow's C++ program. Code shows how to track an object based on its color. Code includes how to convert colorspaces from BGR(blue, green, red) to HSV (hue, saturation, value), eroding-dilating, thresholding to binary (black and white) and tracking by finding contours.
 Watch Kyle's tutorial video: https://www.youtube.com/watch?v=bSeFrPrqZ2A
 Kyle's C++ code: https://dl.dropboxusercontent.com/u/28096936/tuts/objectTrackingTut.cpp
 
-
-Motion Detection is a pythonic version of Kyle Hounslow's C++ program
+detect_track_motion.py
+This is a pythonic version of Kyle Hounslow's C++ program. Code shows how to track a moving object with a fixed background. Code includes how to get the difference between two video frames, blurring, thresholding, and tracking by finding the largest contour.
 Watch Kyle's tutorial video: https://www.youtube.com/watch?v=X6rPdRZzgjg
 Kyle's C++ code: https://dl.dropboxusercontent.com/u/28096936/tuts/motionTrackingTut/finalCode/motionTracking.cpp
 
